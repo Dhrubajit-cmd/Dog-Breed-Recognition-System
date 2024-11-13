@@ -1,0 +1,10 @@
+0 Beagle
+1 Boxer
+2 Bulldog
+3 Dachshund
+4 German Shepherd
+5 Golden Retriever
+6 Labrador Retriever
+7 Poodie
+8 Rottweiler
+9 Yorkshire Terrier
